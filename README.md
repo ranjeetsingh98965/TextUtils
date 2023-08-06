@@ -1,4 +1,5 @@
-# TEXTUTILS
+# TEXTUTILS</br>
+TextUtils is a tool that provides methods for manipulating data text as the user wants.
 
 
 Light Theme <br/>
